@@ -21,4 +21,5 @@ Why we commit before push
 
 Introduction githooks
 
-Inroduction sso
+Inroduction to SSO
+Renamed hook file
