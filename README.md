@@ -23,7 +23,5 @@ Introduction githooks
 
 Inroduction to SSO
 Renamed hook file
-#####
-####
-###
-This is a merge conflict
+Creating a merge conflict - I want to understand merge conflict
+
