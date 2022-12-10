@@ -18,3 +18,11 @@ Added SSH key to github repo
 See the difference between HTTPS and SSH
 
 Why we commit before push
+
+Introduction githooks
+
+Inroduction to SSO
+Renamed hook file
+Creating a merge conflict - I want to understand merge conflict
+
+Learn about branch protection
