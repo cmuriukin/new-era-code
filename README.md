@@ -18,3 +18,5 @@ Added SSH key to github repo
 See the difference between HTTPS and SSH
 
 Why we commit before push
+
+Learn about branch protection
