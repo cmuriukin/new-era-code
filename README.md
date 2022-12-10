@@ -25,3 +25,4 @@ Inroduction to SSO
 Renamed hook file
 Creating a merge conflict - I want to understand merge conflict
 
+Learn about branch protection
