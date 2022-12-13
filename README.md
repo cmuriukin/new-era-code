@@ -19,3 +19,4 @@ See the difference between HTTPS and SSH
 
 Why we commit before push
 Just checking on master
+Checking new branch pascale
